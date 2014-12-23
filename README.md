@@ -65,3 +65,21 @@ It is important to get together at the end of the day and reflect. The standard 
 The ideas presented and practiced in coderetreat are applicable to any object-oriented language. To this end, it is suggested that coderetreats are explicitly multi-lingual. While coderetreat is not a day to learn a new language, it is perfectly acceptable for someone to work in a language they are not familiar with. The facilitator should stress that at least one member of the pair should have a working environment. After all, 45 minutes goes by quickly, and it is a waste to spend the majority of the time getting a development environment raised up.
 
 
+# Conway's Game of Life
+
+The Game of Life, also known simply as Life, is a cellular automaton devised by the British mathematician John Horton Conway in 1970.
+
+![Image of Conways Game of Life](http://upload.wikimedia.org/wikipedia/commons/e/e5/Gospers_glider_gun.gif)
+
+The "game" is a zero-player game, meaning that its evolution is determined by its initial state, requiring no further input. One interacts with the Game of Life by creating an initial configuration and observing how it evolves.
+
+![Video explanation](https://www.youtube.com/watch?v=FdMzngWchDk)
+
+The universe of the Game of Life is an infinite two-dimensional orthogonal grid of square cells, each of which is in one of two possible states, live or dead. Every cell interacts with its eight neighbors, which are the cells that are directly horizontally, vertically, or diagonally adjacent. At each step in time, the following transitions occur:
+
+- Any live cell with fewer than two live neighbours dies, as if caused by underpopulation.
+- Any live cell with more than three live neighbours dies, as if by overcrowding.
+- Any live cell with two or three live neighbours lives on to the next generation.
+- Any dead cell with exactly three live neighbours becomes a live cell.
+
+The initial pattern constitutes the seed of the system. The first generation is created by applying the above rules simultaneously to every cell in the seed?births and deaths happen simultaneously, and the discrete moment at which this happens is sometimes called a tick (in other words, each generation is a pure function of the one before). The rules continue to be applied repeatedly to create further generations.
