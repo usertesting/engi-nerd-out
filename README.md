@@ -52,7 +52,7 @@ Explain to teams that the afternoon is about going past any self-imposed limits.
  
 ### The Closing Circle
 
-It is important to get together at the end of the day and reflect. The standard way if to have a closing circle where everyone answers 3 questions. Depending on the size of the group, you'll want to emphasize brevity. With 20-30 people, it can potentially take a while.
+It is important to get together at the end of the day and reflect. The standard way is to have a closing circle where everyone answers 3 questions. Depending on the size of the group, you'll want to emphasize brevity. 
 
 ### The Three Questions
 
